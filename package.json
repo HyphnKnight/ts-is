@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "ts-is",
   "scripts": {
+    "postinstall": "npm start",
     "start": "npm run clean && tsc",
     "clean": "rm -rf index.js index.d.ts index.js.map"
   },
