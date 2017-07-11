@@ -1,3 +1,8 @@
+# project
+*.js
+*.js.map
+*.d.ts
+
 # Logs
 logs
 *.log

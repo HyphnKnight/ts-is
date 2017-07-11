@@ -2,6 +2,9 @@
   "name": "ts-is",
   "version": "0.0.0",
   "description": "ts-is",
+  "scripts": {
+    "start": "tsc"
+  },
   "author": "Rafe Lepre",
   "license": "MIT",
   "dependencies": {
